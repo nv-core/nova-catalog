@@ -1,0 +1,12 @@
+# Nova Network app catalog
+# Synced by nova before every check/update:  nova catalog add <this repo's URL>
+#
+# Format: one git URL per line, optional options after the URL:
+#   branch=<name>    track a branch instead of tags
+#   ref=<tag>        pin to an exact version
+#   scope=system     install as root (default: user)
+#
+# Apps follow their latest version tag; repos without tags follow HEAD.
+
+https://github.com/nv-core/nova-updater.git
+https://github.com/nv-core/syncman.git
