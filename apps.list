@@ -10,3 +10,5 @@
 
 https://github.com/nv-core/nova-updater.git
 https://github.com/nv-core/syncman.git
+https://github.com/nv-core/nova-killswitch.git
+https://github.com/nv-core/nova-killswitch.git   scope=system
